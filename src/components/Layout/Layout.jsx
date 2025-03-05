@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom"
 import "./Layout.css"
+
 const Layout = (props) => {
   return (
     <>
@@ -17,6 +18,7 @@ const Layout = (props) => {
       <main>
         {props.children}
       </main>
+      
       <footer>
         <p>Website developed by MBM-DESIGN*2025</p>
       </footer>
