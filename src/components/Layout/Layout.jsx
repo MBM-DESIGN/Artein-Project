@@ -18,7 +18,7 @@ const Layout = (props) => {
       <main>
         {props.children}
       </main>
-      
+     
       <footer>
         <p>Website developed by MBM-DESIGN*2025</p>
       </footer>

@@ -1,8 +1,9 @@
-import { useState } from "react"
+import React, { useState, useEffect } from 'react';
 import { Layout } from "../../components/Layout/Layout"
 import "./Home.css"
 
 const HOME = () => {
+
   return (
     <Layout>
       <h2> We paint for the dawn. This is how ArteIn Project began...</h2>
