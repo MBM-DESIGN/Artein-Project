@@ -2,6 +2,7 @@
 .contacto-form {
   max-width: 600px;
   margin: 0 auto;
+  margin-top: 100px;
   padding: 20px;
   background-color: #f9f9f9;
   border-radius: 10px;
@@ -66,3 +67,4 @@
   padding: 20px;
   border-radius: 5px;
 }
+

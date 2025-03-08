@@ -6,7 +6,8 @@ const Layout = (props) => {
     <>
       <header>
         <img src="./src/components/Layout/logo.png" alt="imagen de logo ArteIn" />
-        <h2>The birds don't sing because it's dawn, they sing so that it's dawn.</h2>
+        <h5>The birds don't sing because it's dawn, they sing so that it's dawn🕊🌅</h5>
+
         <nav>
         <ul>
         <li><Link to="/">HOME</Link></li>
